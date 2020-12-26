@@ -80,5 +80,14 @@ housing.csv concerns housing values in suburbs of Boston. The dataset was create
    Platform URL     LinkedIn: https://www.linkedin.com/in/sambanjie/   Medium: https://medium.com/@njie.samba209   GitHub: https://github.com/snjie209   Twitter: https://twitter.com/snjie209    </description>
     </item>
     
+    <item>
+      <title>Resume</title>
+      <link>https://snjie209.github.io/Samba_Portfolio/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://snjie209.github.io/Samba_Portfolio/resume/</guid>
+      <description>You can find my resume by clicking here :)</description>
+    </item>
+    
   </channel>
 </rss>
